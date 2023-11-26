@@ -15,7 +15,8 @@
   About me
 
 * ❤ I love Open Source
-* 💻 I'm a self-taught web developer
+* 💻 I'm a self-taught Java developer
+*  ---
 *  If I'm not coding then you'll find me gaming 
 
 
