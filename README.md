@@ -1,6 +1,5 @@
    
-<h2 align="center">I'm Suraj Das  <img src="https://media1.giphy.com/media/TbKWoWsismjA2FZbnT/giphy.gif?cid=ecf05e471ecu51avg0d9qy3epzqg62chvx27eetdacgnpwo0&ep=v1_stickers_search&rid=giphy.gif&ct=s"
-                                    height="60" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-ms-transform: rotate(90deg);-o-transform: rotate(90deg);transform: rotate(90deg);"></h2>
+<h2>I'm Suraj Das  <img src="lightning.gif" height="30" width="85%"></h2>
 
 
 
@@ -11,12 +10,12 @@
 </p>
 
 
-  About me
+  About me 🙋‍♂️
 
-*  I ❤ Open Source
-* 💻 I'm a self-taught Java ☕♨️ developer
+*  👨🏽‍💼 Professional ☕♨️ Java Developer
+* 💻 sometimes solving DSA
 * ✍️ Learning <b>Frontend</b> ⚛️
-*  If I'm bored of coding you'll find me 🎮🕹️
+*  If I'm bored 🥱 of coding you'll find me 🎮🕹️
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -36,8 +35,11 @@
 ![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Learning
+   Learning
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat&logo=spring-cloud)&nbsp;
+![Microservice](https://img.shields.io/badge/-MicroService-05122A?style=flat&logo=microservice)&nbsp;
 
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurajDas31&show_icons=true&hide_border=true)
