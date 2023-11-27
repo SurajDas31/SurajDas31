@@ -1,11 +1,10 @@
+   
+<h2 align="center">I'm Suraj Das  <img src="https://media1.giphy.com/media/TbKWoWsismjA2FZbnT/giphy.gif?cid=ecf05e471ecu51avg0d9qy3epzqg62chvx27eetdacgnpwo0&ep=v1_stickers_search&rid=giphy.gif&ct=s"
+                                    height="60" style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-ms-transform: rotate(90deg);-o-transform: rotate(90deg);transform: rotate(90deg);"></h2>
 
 
-
-<h2 align="center">I'm Suraj Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
-  
-
   <a href="https://www.linkedin.com/in/surajdas31"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/surajdas_31"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:surajdas3108@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
@@ -14,15 +13,13 @@
 
   About me
 
-* ❤ I love Open Source
-* 💻 I'm a self-taught Java developer
-*  ---
-*  If I'm not coding then you'll find me gaming 
+*  I ❤ Open Source
+* 💻 I'm a self-taught Java ☕♨️ developer
+* ✍️ Learning <b>Frontend</b> ⚛️
+*  If I'm bored of coding you'll find me 🎮🕹️
 
 
 ### 🛠 &nbsp;Tech Stack
-
-
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)&nbsp;
@@ -39,12 +36,11 @@
 ![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-Learning
+### Learning
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 
-   
-   ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurajDas31&show_icons=true&hide_border=true)
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurajDas31&show_icons=true&hide_border=true)
 
 <br>
  <summary>💻 Most used languages</summary>
